@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvindbeam
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning golang
+- 🌱 I’m working on payments team
 - 💞️ I’m looking to collaborate on vehicles team
 - 📫 reach me via arvind@ridebeam.com or 'arvind' on slack.
 
